@@ -1,0 +1,7 @@
+{"ts":1360126799026,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1360126860897,"patch":[[{"diffs":[[1,"http = require(\"http\");\n\nhttp.createServer(function(req, res){\n    \n    \n    \n    }).listen(process.env.PORT, process.env.IP);"]],"start1":0,"start2":0,"length1":0,"length2":126}]],"length":126,"saved":false}
+{"ts":1360126882351,"patch":[[{"diffs":[[0,"){\n    \n    "],[1,"res.end(\"hello\");"],[0,"\n    \n    })"]],"start1":60,"start2":60,"length1":24,"length2":41}]],"length":143,"saved":false}
+{"ts":1360126894380,"patch":[[{"diffs":[[1,"var "],[0,"http = requi"]],"start1":0,"start2":0,"length1":12,"length2":16}]],"length":147,"saved":false}
+{"ts":1360126926561,"patch":[[{"diffs":[[0,"\");\n"],[-1,"\nhttp.createServer(function(req, res){\n    \n    res.end(\"hello\");\n    \n    }).listen(process.env.PORT, process.env.IP);"]],"start1":24,"start2":24,"length1":123,"length2":4}]],"length":28,"saved":false}
+{"ts":1360126964084,"patch":[[{"diffs":[[0,"http\");\n"],[1,"\nhttp.createServer(function(req, res){\n    \n    res.end(\"hello\");\n    \n    }).listen(process.env.PORT, process.env.IP);"]],"start1":20,"start2":20,"length1":8,"length2":127}]],"length":147,"saved":false}
+{"ts":1360126981559,"patch":[[{"diffs":[[0," res){\n    \n"],[1,"    \n"],[0,"    res.end("]],"start1":60,"start2":60,"length1":24,"length2":29}]],"length":152,"saved":false}
